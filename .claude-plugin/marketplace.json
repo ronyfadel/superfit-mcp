@@ -1,0 +1,14 @@
+{
+  "name": "superfit",
+  "description": "SuperFit's plugin for Claude Code: your training data and a coaching skill.",
+  "owner": {
+    "name": "SuperFit"
+  },
+  "plugins": [
+    {
+      "name": "superfit",
+      "source": "./",
+      "description": "Coach with your SuperFit training data in Claude."
+    }
+  ]
+}

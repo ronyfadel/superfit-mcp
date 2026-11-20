@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "superfit": {
+      "type": "http",
+      "url": "https://superfit-mcp.rony-cloudflare.workers.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "superfit",
+  "version": "1.0.0",
+  "description": "Coach with your SuperFit training data in Claude: read your program, workouts and history, and change your plan, logs and recommendations.",
+  "author": {
+    "name": "SuperFit"
+  },
+  "homepage": "https://github.com/ronyfadel/superfit-claude",
+  "repository": "https://github.com/ronyfadel/superfit-claude",
+  "license": "MIT",
+  "keywords": [
+    "fitness",
+    "training",
+    "coaching",
+    "strength",
+    "running"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/ronyfadel/superfit-claude#privacy"
+}
