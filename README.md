@@ -38,7 +38,7 @@ A connector you add on claude.ai is also available in the Claude desktop and mob
 Install the plugin, which includes the connector and the coaching skill:
 
 ```
-/plugin marketplace add ronyfadel/superfit-claude
+/plugin marketplace add ronyfadel/superfit-mcp
 /plugin install superfit@superfit
 ```
 

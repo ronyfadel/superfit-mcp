@@ -5,8 +5,8 @@
   "author": {
     "name": "SuperFit"
   },
-  "homepage": "https://github.com/ronyfadel/superfit-claude",
-  "repository": "https://github.com/ronyfadel/superfit-claude",
+  "homepage": "https://github.com/ronyfadel/superfit-mcp",
+  "repository": "https://github.com/ronyfadel/superfit-mcp",
   "license": "MIT",
   "keywords": [
     "fitness",
@@ -16,5 +16,5 @@
     "running"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://github.com/ronyfadel/superfit-claude#privacy"
+  "privacyPolicyUrl": "https://github.com/ronyfadel/superfit-mcp#privacy"
 }
