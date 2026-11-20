@@ -17,6 +17,8 @@ https://superfit-mcp.rony-cloudflare.workers.dev/mcp
 
 Whatever the app, connecting ends the same way: a SuperFit page opens in your browser and asks for a code. In the SuperFit app, go to **Settings → Connect Claude**, tap **Get a pairing code**, and enter it. A code works once, for 10 minutes.
 
+Phone not at hand? Choose **Continue with Google** on that page instead, with the same Google account you use in SuperFit.
+
 ## Connect in claude.ai or the Claude apps
 
 1. In Claude, open **Settings → Connectors** and choose **Add custom connector**.
